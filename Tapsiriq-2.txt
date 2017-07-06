@@ -1,0 +1,32 @@
+Tapsiriq N 2
+Assembly,C,Asp.net dillerin haqqinda arasdirma etmeniz gerekir. 
+Her bir dilin ustunulukleri,zeif yanlari ve Gunumuzde harda istifade olungu haqqda mezmun yazilmalidir.
+1) Assembly
+Dunyada ilk mnemonik proqramlasdirma dili olan Assembly 1952 ci ilde amerikali qadin olan Qreys Hopper terefinden yaradilib
+Assemble sozu ingilisceden goturulub menasi "yigmaq" "qurasdirmaq" demekdir.
+Assemble diger Proqramlasdirma dillerinden tamamile ferqli bir dildir.
+Bu dilin uzerine 2 ci ve ya 3 cu nesil dillerin inkisaf etdirilmesi o demek deyil ki Assembler dili kohnelib ve ya istifade olunur.
+Assemble dili proqramlasdirma sahesinde cox boyuk ehemiyyet dasiyir.
+Onsuz Muasir proqramlasdirmani tesevvur etmek mumkun deyil..
+Assembler hal hazirda yalniz sistem proqramlarinda istifade olunur ve inkisaf etdirilir.. 
+Bu proqramlasdirma dilinin imkanlari sonsuzdur.. Bu dile aid bir cox kitablar ve meqaleler movcuddur..
+Istenilen dilde oldugu kimi bu dilin de elifbasina translator terefinden qebul oluna bilen xususi simvollar yigimi movcuddur..
+1. Latin elifbasinin boyuk ve kicik herfleri
+2. 0 - 9 ereb reqemleri
+3. Xususi isareler 
+4. Bosluq ve alt xett
+5. Ayirici isareler.
+Bunlardan basqa Assembler diline mueyyen acar sozleri daxildir ki onlar da proqramda oldugu kimi isledilirler.
+2) C
+C proqramlasdirma dili bir cox diger dillerin yaranmasina ve inkisafina tekan vermisdir.
+Bu dil diger emeliyyat sistemlerinde de genis istifade olunur. Muasir dovurde bu dil sistem proqramlasdirmasi ucun en guclu proqramlasdirma dillerinden biri hesab olunur.
+Windows, Linux  ve s. emeliyyat sistemleri mehz C de yazilir.
+C++, Objective-C, Perl, Java, PHP, JavaScript, ve s dillerin yaranmasinda C nin rolu boyukdur.
+Mehz buna gorede yuxarida sadalanan diller " C kimi sintaksise" malik diller deyilir.
+C proqramlasdirma dilinin tedris ucun yaradilmamasina baxmayaraq hazirda bir cox universitedlerde C dili tedris olunur. Ve bir coxlari dusunurki butun guclu proqramcilar C dilini bilmelidirler.
+3) Asp.net
+ASP - Active Server Page 
+Asp.net microsoft terefinden inkisaf etdirilmis bir web tetbiqi iknisafi texnologiyasidir.
+Her ne qeder ad benzerliyi olsa da ASP.NET Asp ye nisbetle cox ciddi bir deyisim kecirmisdir.
+ASP.Net tedbiqleri inkisaf etdirmek ucun istifade edilir.
+Proqramci terefinden yazilan kod isledilmeden evvel virtual bir proqram layi terefinden ortaq bir dile cevirilmelidir.
